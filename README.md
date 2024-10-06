@@ -49,3 +49,7 @@ All models performed similarly, with Logistic Regression and MLPClassifier showi
 ## Conclusion
 
 Through thorough data exploration, preprocessing, feature engineering, and model selection, we achieved highly accurate predictions for Titanic survival. The balance between simplicity (Logistic Regression) and complexity (Neural Networks) allowed us to compare different approaches and ensure robust results. This project demonstrates the entire pipeline from raw data to predictive modeling and submission preparation.
+
+## References
+
+- Cukierski, W. (2012). *Titanic - Machine Learning from Disaster*. Kaggle. Retrieved from [https://kaggle.com/competitions/titanic](https://kaggle.com/competitions/titanic)
